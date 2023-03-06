@@ -1,0 +1,28 @@
+#weather {
+  width: 160px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.time {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.temperature {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.wind-speed {
+  font-size: 18px;
+  font-weight: bold;
+}
